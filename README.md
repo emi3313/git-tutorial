@@ -1,5 +1,9 @@
 #Gitチュートリアル　
 
+
 -feature-A
+-fixB
+
+
 
 
